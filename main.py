@@ -1,3 +1,4 @@
+#Repositorie name changed on hw_2
 class Figure:
     def __init__(self):
         self.unit = '"Square"'
