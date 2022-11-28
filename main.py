@@ -1,4 +1,4 @@
-#Repositorie name changed on hw_2
+'''Repositorie name changed on hw__2'''
 class Figure:
     def __init__(self):
         self.unit = '"Square"'
